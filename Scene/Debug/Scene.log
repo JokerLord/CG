@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\murad\LEARNING\MSU\3_course\Computer_graphics\Scene\Scene\Source.cpp(430,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\murad\LEARNING\MSU\3_course\Computer_graphics\Scene\Scene\Source.cpp(676,43): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\murad\LEARNING\MSU\3_course\Computer_graphics\Scene\Scene\Source.cpp(809,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\murad\LEARNING\MSU\3_course\Computer_graphics\Scene\Scene\Source.cpp(810,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\murad\LEARNING\MSU\3_course\Computer_graphics\Scene\Scene\Source.cpp(814,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\murad\LEARNING\MSU\3_course\Computer_graphics\Scene\Scene\Source.cpp(815,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\murad\LEARNING\MSU\3_course\Computer_graphics\Scene\Scene\Source.cpp(816,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\murad\LEARNING\MSU\3_course\Computer_graphics\Scene\Scene\Source.cpp(817,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\murad\LEARNING\MSU\3_course\Computer_graphics\Scene\Scene\Source.cpp(842,16): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+  Scene.vcxproj -> C:\Users\murad\LEARNING\MSU\3_course\Computer_graphics\Scene\Debug\Scene.exe
