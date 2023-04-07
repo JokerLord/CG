@@ -2,12 +2,12 @@
 ___
 ### Реализованы следующие эффекты (полигональная графика):
 :white_check_mark: Отбрасывание тени на плоскость  
-:white_check_mark: Отбрасывание тени на другие объекты
-:white_check_mark: Normal mapping
-:white_check_mark: Полупрозрачные billboard, требующие упорядоченного вывода
-:white_check_mark: Двумерный пост-эффект
-:white_check_mark: Попиксельный расчет освещенности по стандартным моделям (Блинн-Фонг)
-:white_check_mark: Parallax mapping
+:white_check_mark: Отбрасывание тени на другие объекты  
+:white_check_mark: Normal mapping  
+:white_check_mark: Полупрозрачные billboard, требующие упорядоченного вывода  
+:white_check_mark: Двумерный пост-эффект  
+:white_check_mark: Попиксельный расчет освещенности по стандартным моделям (Блинн-Фонг)  
+:white_check_mark: Parallax mapping  
 ___
 ### Скриншот получаемой в результате работы программы сцены:
 
