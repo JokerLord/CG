@@ -10,7 +10,7 @@ ___
 :white_check_mark: Parallax mapping  
 ___
 ### Скриншот получаемой в результате работы программы сцены:
-
+![Demo](https://github.com/JokerLord/CG/blob/main/demo.png)
 ___
 ### Сборка в Visual Studio 2019
 1. Открыть файл Scene.sln
